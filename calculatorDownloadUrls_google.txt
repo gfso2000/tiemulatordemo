@@ -1,5 +1,5 @@
 Google Store(BA Plus Pro Financial Calculator): https://play.google.com/store/apps/details?id=com.xinke.tiemulator
-Google Store(12C Plus Financial Calculator): https://play.google.com/store/apps/details?id=com.xinke.hp12c.free
-Apple Store(BA Plus Calculator): https://apps.apple.com/us/app/ba-plus-calculator/id1510190657
+Google Store(12C Plus Financial Calculator): https://play.google.com/store/apps/details?id=com.xinke.hp12c.google
 Apple Store(BA Plus Pro Calculator): https://apps.apple.com/us/app/ba-ii-plus-pro-calculator/id1492792206
+Apple Store(12C Plus Financial Calculator): https://apps.apple.com/cn/app/12c-platinum-calculator/id1536689352
 
